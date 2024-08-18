@@ -1,9 +1,12 @@
 h1{
     color: blue;
 }
-
+.imagens{
+    width: 150px;
+    height: 150px;
+}
 p{
     color: blue;
     text-align:justify;
-    padding: 5% 70%;
+    padding: 1% 2%;
 }
